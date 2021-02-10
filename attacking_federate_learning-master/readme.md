@@ -1,9 +1,7 @@
 
-# Federate Learning 攻防复现篇
-
-更新日期截止2020年5月22日，项目定期维护和更新，维护各种SOTA的Federated Learning的攻防模型。(更新中。。）
-
-## 论文 (Defend)
+Federate Learning 攻防复现篇
+ 
+论文 (Defend)
 
 
 1. (**Krum**): Machine Learning with Adversaries:
@@ -17,14 +15,6 @@ Towards optimal statistical rates. In Proceedings of the International Conferenc
 
 4. A Little Is Enough: Circumventing Defenses For Distributed Learning【NIPS 2019】
 
-
-
-
-代码运行
-```
-mkdir logs
-python main.py
-
-```
+转载自：https://github.com/shanxuanchen/attacking_federate_learning
 
 
